@@ -50,4 +50,4 @@ This project is licensed under the MIT, Apache2 Licenses.
 ## Credits
 - UI: v0.dev
 - AI: Mistral AI
-- BLUE LOTUS: lotuschain.org
+- BLUE LOTUS: [LotusChain](https://lotuschain.org)
